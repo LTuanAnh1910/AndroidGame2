@@ -1,0 +1,11 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ProjectModuleManager">
+    <modules>
+      <module fileurl="file://$PROJECT_DIR$/.idea/AndroidGame-main.iml" filepath="$PROJECT_DIR$/.idea/AndroidGame-main.iml" />
+      <module fileurl="file://$PROJECT_DIR$/Library/Bee/Android/Prj/IL2CPP/Gradle/unityLibrary/build/build.iml" filepath="$PROJECT_DIR$/Library/Bee/Android/Prj/IL2CPP/Gradle/unityLibrary/build/build.iml" />
+      <module fileurl="file://$PROJECT_DIR$/Library/Bee/Android/Prj/IL2CPP/Gradle/launcher/launcher.iml" filepath="$PROJECT_DIR$/Library/Bee/Android/Prj/IL2CPP/Gradle/launcher/launcher.iml" />
+      <module fileurl="file://$PROJECT_DIR$/Library/Bee/Android/Prj/IL2CPP/Gradle/unityLibrary/src/unityLibrary.iml" filepath="$PROJECT_DIR$/Library/Bee/Android/Prj/IL2CPP/Gradle/unityLibrary/src/unityLibrary.iml" />
+    </modules>
+  </component>
+</project>
